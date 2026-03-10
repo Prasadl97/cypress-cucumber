@@ -1,4 +1,4 @@
-# Playwright + Cucumber
+# Playwright + Cucumber (E-Commerce Web Application)
 
 E2E tests using [Playwright](https://playwright.dev/) for browser automation and [Cucumber](https://cucumber.io/) for BDD (Gherkin) scenarios.
 
