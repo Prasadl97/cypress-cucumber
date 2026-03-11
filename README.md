@@ -69,8 +69,7 @@ cypress-cucumber/
 │   └── entities/                # Persisted entities (e.g. registered-user.json)
 ├── utils/
 │   ├── AssertUtils.ts          # Soft assertions
-│   ├── EntityStore.ts          # Persist/load user JSON (TypeScript)
-│   ├── EntityStore.cjs         # Persist/load user JSON (used by config)
+│   ├── EntityStore.cjs         # Persist/load user JSON
 │   ├── IdUtils.ts              # Dynamic email generation
 │   └── Logger.ts               # Logging utility
 ├── .cypress-cucumber-preprocessorrc.json
